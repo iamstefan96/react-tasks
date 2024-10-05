@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Witchy Pumpkin Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Witchy Pumpkin Regular'), url('Witchy Pumpkin.woff') format('woff');
+    }
+
+@font-face {
+    font-family: 'Minecraft Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Minecraft Regular'), url('1_MinecraftRegular1.woff') format('woff');
+    }
+
+    h2 {
+            font-family: 'Witchy Pumpkin Regular';
+            font-weight: 200;
+            color: #034240;
+    }
+
+    p {
+            font-family: 'Minecraft Regular';
+            font-weight: 200;
+            color: #023f3f;
+    }

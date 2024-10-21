@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-tasks/static/css/main.bb48385d.css",
+    "main.js": "/react-tasks/static/js/main.bcde2312.js",
+    "static/media/Witchy Pumpkin.woff": "/react-tasks/static/media/Witchy Pumpkin.9fa35543c5c93fda49a2.woff",
+    "static/media/SEGA.woff": "/react-tasks/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "static/media/1_MinecraftRegular1.woff": "/react-tasks/static/media/1_MinecraftRegular1.60236a7bd0902f2d910f.woff",
+    "index.html": "/react-tasks/index.html",
+    "main.bb48385d.css.map": "/react-tasks/static/css/main.bb48385d.css.map",
+    "main.bcde2312.js.map": "/react-tasks/static/js/main.bcde2312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb48385d.css",
+    "static/js/main.bcde2312.js"
+  ]
+}
